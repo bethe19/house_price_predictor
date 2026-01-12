@@ -1,0 +1,20 @@
+{
+  "version": "1.0.0",
+  "trained_date": "2026-01-10T14:11:30.544463",
+  "algorithm": "Neural Network Regression",
+  "input_features": [
+    "area",
+    "bedrooms",
+    "bathrooms",
+    "stories",
+    "mainroad",
+    "guestroom",
+    "basement",
+    "hotwaterheating",
+    "airconditioning",
+    "parking",
+    "prefarea",
+    "furnishingstatus"
+  ],
+  "furnishing_status_mapping": {
+    "furnished": 
